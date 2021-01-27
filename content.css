@@ -2,3 +2,20 @@
 #comments { 
     display: none; 
 }
+
+.ytd-comment-renderer {
+    display: none; 
+}
+
+.count-text {
+    display: none; 
+}
+
+.ytd-comment-replies-renderer {
+    display: none; 
+}
+
+
+.ytd-comment-thread-renderer {
+    display: none; 
+}
